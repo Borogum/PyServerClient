@@ -30,11 +30,11 @@ port = 9090
 
 Only four commands are implemented out of the box:
 
-- **hello** : Shows a welcome message
+- **hello** : Shows a welcome message.
 - **reply** : Repeats input like a parrot.
-- **test** : Show "TESTING"
-- **exit** : Disconnect from server
-- **quit** : Shut down the server and exit
+- **test** : Show "TESTING".
+- **exit** : Disconnect from server.
+- **quit** : Shut down the server and exit.
 
 
 ## Create new commands
